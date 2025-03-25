@@ -2337,3 +2337,6 @@ natives-windows-x86_64
 patchouli_data.json
 rhino.local.properties
 tlm_custom_pack/touhou_little_maid-1.0.0.zip
+xaero/
+servers.dat_old
+TrashSlotSaveState.json
