@@ -1,0 +1,2197 @@
+config/abridged.json
+config/additional-additions-config.json
+config/adventurez.json5
+config/aiimprovements-common.toml
+config/akashictome-common.toml
+config/alexscaves-client.toml
+config/alexscaves-general.toml
+config/alexscaves_biome_generation/abyssal_chasm.json
+config/alexscaves_biome_generation/candy_cavity.json
+config/alexscaves_biome_generation/forlorn_hollows.json
+config/alexscaves_biome_generation/magnetic_caves.json
+config/alexscaves_biome_generation/primordial_caves.json
+config/alexscaves_biome_generation/toxic_caves.json
+config/alexscavesdelight-common.toml
+config/alexsmobs.toml
+config/alexsmobs/alligator_snapping_turtle_spawns.json
+config/alexsmobs/anaconda_spawns.json
+config/alexsmobs/anteater_spawns.json
+config/alexsmobs/bald_eagle_spawns.json
+config/alexsmobs/banana_slug_spawns.json
+config/alexsmobs/bison_spawns.json
+config/alexsmobs/blobfish_spawns.json
+config/alexsmobs/blue_jay_spawns.json
+config/alexsmobs/bone_serpent_spawns.json
+config/alexsmobs/bunfungus_spawns.json
+config/alexsmobs/cachalot_whale_beached_spawns.json
+config/alexsmobs/cachalot_whale_spawns.json
+config/alexsmobs/caiman_spawns.json
+config/alexsmobs/capuchin_monkey_spawns.json
+config/alexsmobs/catfish_spawns.json
+config/alexsmobs/cave_centipede_spawns.json
+config/alexsmobs/cockroach_spawns.json
+config/alexsmobs/comb_jelly_spawns.json
+config/alexsmobs/cosmaw_spawns.json
+config/alexsmobs/cosmic_cod_spawns.json
+config/alexsmobs/crimson_mosquito_spawns.json
+config/alexsmobs/crocodile_spawns.json
+config/alexsmobs/crow_spawns.json
+config/alexsmobs/devils_hole_pupfish_spawns.json
+config/alexsmobs/dropbear_spawns.json
+config/alexsmobs/elephant_spawns.json
+config/alexsmobs/emu_spawns.json
+config/alexsmobs/endergrade_spawns.json
+config/alexsmobs/enderiophage_spawns.json
+config/alexsmobs/farseer.json
+config/alexsmobs/flutter_spawns.json
+config/alexsmobs/fly_spawns.json
+config/alexsmobs/flying_fish_spawns.json
+config/alexsmobs/frilled_shark_spawns.json
+config/alexsmobs/froststalker_spawns.json
+config/alexsmobs/gazelle_spawns.json
+config/alexsmobs/gelada_monkey_spawns.json
+config/alexsmobs/giant_squid_spawns.json
+config/alexsmobs/gorilla_spawns.json
+config/alexsmobs/grizzly_bear_spawns.json
+config/alexsmobs/guster_spawns.json
+config/alexsmobs/hammerhead_shark_spawns.json
+config/alexsmobs/hummingbird_spawns.json
+config/alexsmobs/jerboa_spawns.json
+config/alexsmobs/kangaroo_spawns.json
+config/alexsmobs/komodo_dragon_spawns.json
+config/alexsmobs/laviathan_spawns.json
+config/alexsmobs/leafcutter_anthill_spawns.json
+config/alexsmobs/lobster_spawns.json
+config/alexsmobs/maned_wolf_spawns.json
+config/alexsmobs/mantis_shrimp_spawns.json
+config/alexsmobs/mimic_octopus_spawns.json
+config/alexsmobs/mimicube_spawns.json
+config/alexsmobs/moose_spawns.json
+config/alexsmobs/mudskipper_spawns.json
+config/alexsmobs/mungus_spawns.json
+config/alexsmobs/murmur.json
+config/alexsmobs/orca_spawns.json
+config/alexsmobs/platypus_spawns.json
+config/alexsmobs/potoo_spawns.json
+config/alexsmobs/raccoon_spawns.json
+config/alexsmobs/rain_frog_spawns.json
+config/alexsmobs/rattlesnake_spawns.json
+config/alexsmobs/rhinoceros_spawns.json
+config/alexsmobs/roadrunner_spawns.json
+config/alexsmobs/rocky_roller_spawns.json
+config/alexsmobs/seagull_spawns.json
+config/alexsmobs/seal_spawns.json
+config/alexsmobs/shoebill_spawns.json
+config/alexsmobs/skelewag_spawns.json
+config/alexsmobs/skreecher.json
+config/alexsmobs/skunk_spawns.json
+config/alexsmobs/snow_leopard_spawns.json
+config/alexsmobs/soul_vulture_spawns.json
+config/alexsmobs/spectre_spawns.json
+config/alexsmobs/straddler_spawns.json
+config/alexsmobs/stradpole_spawns.json
+config/alexsmobs/sugar_glider_spawns.json
+config/alexsmobs/sunbird_spawns.json
+config/alexsmobs/tarantula_hawk_spawns.json
+config/alexsmobs/tasmanian_devil_spawns.json
+config/alexsmobs/terrapin_spawns.json
+config/alexsmobs/tiger_spawns.json
+config/alexsmobs/toucan_spawns.json
+config/alexsmobs/triops_spawns.json
+config/alexsmobs/tusklin_spawns.json
+config/alexsmobs/underminer.json
+config/alexsmobs/void_worm_spawns.json
+config/alexsmobs/warped_mosco_spawns.json
+config/alexsmobs/warped_toad_spawns.json
+config/alexsmobsinteraction.toml
+config/ambientsounds-client.json
+config/amendments-client.toml
+config/amendments-common.toml
+config/appleskin-client.toml
+config/aquaculture-common.toml
+config/armoroftheages.json
+config/artifacts/client.json5
+config/artifacts/common.json5
+config/artifacts/relics/anglers_hat.yaml
+config/artifacts/relics/lucky_scarf.yaml
+config/artifacts/relics/novelty_drinking_hat.yaml
+config/artifacts/relics/plastic_drinking_hat.yaml
+config/artifacts/relics/scarf_of_invisibility.yaml
+config/artifacts/relics/snorkel.yaml
+config/artifacts/relics/superstitious_hat.yaml
+config/artifacts/relics/villager_hat.yaml
+config/artifactsdelight-common.toml
+config/atmospheric-common.toml
+config/attributefix.json
+config/autumnity-common.toml
+config/awesomedungeonocean_1.properties
+config/badmobs-common.toml
+config/badoptimizations.txt
+config/bagus_lib-client.toml
+config/bagus_lib-common.toml
+config/bakery.toml
+config/balm-common.toml
+config/bbsmc_ad-client.toml
+config/bclib/biomes.json
+config/bclib/cache.json
+config/bclib/client.json
+config/bclib/generator.json
+config/bclib/main.json
+config/bclib/server.json
+config/bettercombat/client.json5
+config/bettercombat/fallback_compatibility.json
+config/bettercombat/server.json5
+config/betterdays-client.toml
+config/betterdays-common.toml
+config/betterend/blocks.json
+config/betterend/client.json
+config/betterend/enchantments.json
+config/betterend/entities.json
+config/betterend/generator.json
+config/betterend/items.json
+config/betterend/portals.json
+config/betterfpsdist.json
+config/betternether/biomes.json
+config/betternether/blocks.json
+config/betternether/generator.json
+config/betternether/items.json
+config/betternether/main.json
+config/betternether/mobs.json
+config/bettertitlescreen-client.toml
+config/biomemakeover.json
+config/biomemusic.json
+config/biomesoplenty/biome_toggles.json
+config/biomesoplenty/gameplay.toml
+config/biomesoplenty/generation.toml
+config/biomesoplentydelight-common.toml
+config/biomeswevegone/mob_spawn.json
+config/biomeswevegone/trades.json
+config/biomeswevegone/world_generation.json5
+config/blueprint-client.toml
+config/blueprint-common.toml
+config/bocchium-client.toml
+config/borninchaosdelight-common.toml
+config/bosses_of_mass_destruction.json5
+config/bountifulfares.json
+config/brewinandchewin-client.toml
+config/brewinandchewin-common.toml
+config/brute_force_rendering_culling-client.toml
+config/buzzier_bees-common.toml
+config/carryon-client.toml
+config/carryon-common.toml
+config/cat_loaf.json
+config/cataclysm.toml
+config/cataclysm/amethyst_crab_spawns.json
+config/cataclysm/coral_golem_spawns.json
+config/cataclysm/deepling_angler_spawns.json
+config/cataclysm/deepling_brute_spawns.json
+config/cataclysm/deepling_priest_spawns.json
+config/cataclysm/deepling_spawns.json
+config/cataclysm/deepling_warlock_spawns.json
+config/cataclysm/koboleton_spawns.json
+config/caupona-common.toml
+config/cavebiomesdelight-common.toml
+config/caverns_and_chasms-client.toml
+config/caverns_and_chasms-common.toml
+config/celestial_configs/celestial_artifacts-common.toml
+config/celestial_configs/celestial_core-common.toml
+config/celestisynth/celestisynth-client.toml
+config/chefsdelight-common.toml
+config/chimes-client.toml
+config/chimes-common.toml
+config/chloride-client.json
+config/chococraft-4-breeding.json
+config/chococraft-common.toml
+config/citadel-common.toml
+config/collective.json5
+config/collectorsreap-common.toml
+config/com.yuushya/client_config.json
+config/combatroll/client.json5
+config/combatroll/enchantments.json
+config/combatroll/hud_config.json
+config/combatroll/server.json5
+config/config/armoroftheages.json
+config/configured-client.toml
+config/connector.json
+config/connectorextras_energy_bridge-common.toml
+config/constantmusic.toml
+config/constructionwand-client.toml
+config/continuity.json
+config/convenientdecor.json5
+config/convivium-common.toml
+config/cookingforblockheads-common.toml
+config/corgilib/announcement_config.json5
+config/CoroUtil/General.toml
+config/cosmeticarmorreworked-client.toml
+config/cosmeticarmorreworked-common.toml
+config/crabbersdelight-common.toml
+config/creeperconfetti-common.toml
+config/creeperoverhaul.jsonc
+config/cristellib/minecraftED.json5
+config/cristellib/minecraftP.json5
+config/crockpot-client.toml
+config/crockpot-common.toml
+config/cuisinedelight-client.toml
+config/cuisinedelight-common.toml
+config/cullleaves.json
+config/cupboard.json
+config/curios-client.toml
+config/curios-common.toml
+config/curious-lanterns-client.toml
+config/deeperdarker-common.toml
+config/delightful-common.toml
+config/displaydelight-common.toml
+config/doapi/recipebook.json5
+config/dragonloot.json5
+config/dummmmmmy-client.toml
+config/dummmmmmy-common.toml
+config/earthmobsmod-common.toml
+config/ecologics-common.toml
+config/eeeabsmobs-common.toml
+config/embeddium-fingerprint.json
+config/embeddium-mixins.properties
+config/embeddium-options.json
+config/enchantinginfuser-server.toml
+config/endergetic-common.toml
+config/endermanoverhaul-client.jsonc
+config/endermanoverhaul.jsonc
+config/ends_delight-common.toml
+config/enigmaticaddons-client.omniconf
+config/enigmaticaddons-common.omniconf
+config/enigmaticdelicacy-client.omniconf
+config/enigmaticdelicacy-common.omniconf
+config/enigmaticlegacy-client.omniconf
+config/enigmaticlegacy-common.omniconf
+config/enigmaticlegacydelight-common.toml
+config/entity_model_features.json
+config/entity_texture_features.json
+config/entityculling.json
+config/environmental-common.toml
+config/etf_warnings.json
+config/euphoria_patcher.properties
+config/expandedstorage.json
+config/explorerscompass-client.toml
+config/explorerscompass-common.toml
+config/exposure-client.toml
+config/exposure-common.toml
+config/exquisito-client.toml
+config/exquisito-common.toml
+config/fabric/indigo-renderer.properties
+config/fancymenu/assets/bys.png
+config/fancymenu/assets/mdj.png
+config/fancymenu/assets/rqc.png
+config/fancymenu/assets/settings.png
+config/fancymenu/assets/sgl.png
+config/fancymenu/assets/sky.png
+config/fancymenu/assets/title.png
+config/fancymenu/assets/tjm.png
+config/fancymenu/assets/wa.png
+config/fancymenu/audio_element_controller_metas.json
+config/fancymenu/custom_gui_screens.txt
+config/fancymenu/customizablemenus.txt
+config/fancymenu/customization/connect_screen_layout.txt
+config/fancymenu/customization/create_world_screen_layout.txt
+config/fancymenu/customization/drippy_loading_overlay_layout.txt
+config/fancymenu/customization/generic_dirt_message_screen_layout.txt
+config/fancymenu/customization/join_multiplayer_screen_layout.txt
+config/fancymenu/customization/level_loading_screen_layout.txt
+config/fancymenu/customization/options_screen_layout.txt
+config/fancymenu/customization/progress_screen_layout.txt
+config/fancymenu/customization/receiving_level_screen_layout.txt
+config/fancymenu/customization/select_world_screen_layout.txt
+config/fancymenu/customization/title_screen_layout.txt
+config/fancymenu/layout_editor/widgets/element_layer_control.lewidget
+config/fancymenu/legacy_checklist.txt
+config/fancymenu/options.txt
+config/fancymenu/panoramas/mypanorama/panorama/panorama_0.png
+config/fancymenu/panoramas/mypanorama/panorama/panorama_1.png
+config/fancymenu/panoramas/mypanorama/panorama/panorama_2.png
+config/fancymenu/panoramas/mypanorama/panorama/panorama_3.png
+config/fancymenu/panoramas/mypanorama/panorama/panorama_4.png
+config/fancymenu/panoramas/mypanorama/panorama/panorama_5.png
+config/fancymenu/panoramas/mypanorama/properties.txt
+config/fancymenu/slideshows/myslideshow/images/image_1.png
+config/fancymenu/slideshows/myslideshow/images/image_2.png
+config/fancymenu/slideshows/myslideshow/images/image_3.png
+config/fancymenu/slideshows/myslideshow/images/image_4.png
+config/fancymenu/slideshows/myslideshow/properties.txt
+config/fancymenu/ui_themes/dark.json
+config/fancymenu/ui_themes/light.json
+config/fancymenu/user_variables.db
+config/farmandcharm.toml
+config/farmersdelight-client.toml
+config/farmersdelight-common.toml
+config/farmersplus-common.toml
+config/farmersrespite-common.toml
+config/farmingforblockheads-common.toml
+config/farmingforblockheads/MarketRegistry.json
+config/fastfooddelight.toml
+config/fastpaintings-common.toml
+config/ferritecore-mixin.toml
+config/finsandtails-common.toml
+config/fishermens_trap-common.toml
+config/fluffy_fur-client.toml
+config/fml.toml
+config/forge-client.toml
+config/freecam.toml
+config/friendsandfoes.json
+config/friendsfoesdelight-common.toml
+config/fruitsdelight-common.toml
+config/ftbbackups2.json
+config/ftbquests/quests/chapter_groups.snbt
+config/ftbquests/quests/chapters/02CF56FBB15AE885.snbt
+config/ftbquests/quests/chapters/0857D6B93ECD4993.snbt
+config/ftbquests/quests/chapters/08EAC68293B6149A.snbt
+config/ftbquests/quests/chapters/0D6C06BED541913F.snbt
+config/ftbquests/quests/chapters/10A1D01B17C5C4B1.snbt
+config/ftbquests/quests/chapters/10B081BBA281CE8B.snbt
+config/ftbquests/quests/chapters/10E07EEF6EC11BBF.snbt
+config/ftbquests/quests/chapters/15626D1B98616EA1.snbt
+config/ftbquests/quests/chapters/1FEDE70BD7310E61.snbt
+config/ftbquests/quests/chapters/212C058C04277AF1.snbt
+config/ftbquests/quests/chapters/22D1E27DC587BA47.snbt
+config/ftbquests/quests/chapters/2D4CE48D18D7CDDE.snbt
+config/ftbquests/quests/chapters/30A91B3DFFBC6541.snbt
+config/ftbquests/quests/chapters/371D0EB13BDCB02A.snbt
+config/ftbquests/quests/chapters/37BDEFF36FFC0CCF.snbt
+config/ftbquests/quests/chapters/3CF75D57E0BDE11E.snbt
+config/ftbquests/quests/chapters/3D80A42CE14E985F.snbt
+config/ftbquests/quests/chapters/3EC3BE836383376A.snbt
+config/ftbquests/quests/chapters/4172B3BBBF2F5AED.snbt
+config/ftbquests/quests/chapters/45842A6B54273683.snbt
+config/ftbquests/quests/chapters/463DCA530EF2B439.snbt
+config/ftbquests/quests/chapters/5346D2B5CC3E1CBB.snbt
+config/ftbquests/quests/chapters/53515B2D3DF53A64.snbt
+config/ftbquests/quests/chapters/537F07AA2939BBE1.snbt
+config/ftbquests/quests/chapters/5472762001D8F295.snbt
+config/ftbquests/quests/chapters/5B7984924F97D11A.snbt
+config/ftbquests/quests/chapters/61432536E9D2A4A5.snbt
+config/ftbquests/quests/chapters/6391C1FE208411BE.snbt
+config/ftbquests/quests/chapters/652049266587BBC1.snbt
+config/ftbquests/quests/chapters/66DA29BAADEEAABB.snbt
+config/ftbquests/quests/chapters/68863314B61809FD.snbt
+config/ftbquests/quests/chapters/68ACA6BD7492F66A.snbt
+config/ftbquests/quests/chapters/6B5749329CAA1A5D.snbt
+config/ftbquests/quests/chapters/6F01358C51C2532D.snbt
+config/ftbquests/quests/chapters/735FCE77DB585B19.snbt
+config/ftbquests/quests/chapters/77164DB5CA83802E.snbt
+config/ftbquests/quests/chapters/77FEEFCEF1B0D17B.snbt
+config/ftbquests/quests/chapters/79638350760E01BA.snbt
+config/ftbquests/quests/chapters/79F36DBC5D1CB7D7.snbt
+config/ftbquests/quests/chapters/7B93977FBDF9736C.snbt
+config/ftbquests/quests/chapters/7F08E1A04C71BFAB.snbt
+config/ftbquests/quests/data.snbt
+config/ftbquests/quests/reward_tables/basic.snbt
+config/ftbquests/quests/reward_tables/basicshop.snbt
+config/ftbquests/quests/reward_tables/bbq.snbt
+config/ftbquests/quests/reward_tables/bg1.snbt
+config/ftbquests/quests/reward_tables/bg2_2.snbt
+config/ftbquests/quests/reward_tables/cd.snbt
+config/ftbquests/quests/reward_tables/cele.snbt
+config/ftbquests/quests/reward_tables/eyes.snbt
+config/ftbquests/quests/reward_tables/lajiao.snbt
+config/ftbquests/quests/reward_tables/latiao.snbt
+config/ftbquests/quests/reward_tables/muban.snbt
+config/ftbquests/quests/reward_tables/pro.snbt
+config/ftbquests/quests/reward_tables/proshop.snbt
+config/ftbquests/quests/reward_tables/seeds.snbt
+config/ftbquests/quests/reward_tables/shu.snbt
+config/ftbquests/quests/reward_tables/sq.snbt
+config/ftbquests/quests/reward_tables/taro.snbt
+config/ftbquests/quests/reward_tables/tea.snbt
+config/ftbquests/quests/reward_tables/tinker.snbt
+config/ftbquests/quests/reward_tables/wild.snbt
+config/ftbxmodcompat.snbt
+config/galosphere-common.toml
+config/global_data_and_resourcepacks.toml
+config/goblintraders-entities.toml
+config/graveyard/the-graveyard-3.0-config.json5
+config/guardvillagers-client.toml
+config/guardvillagers-common.toml
+config/hammerlib/foil_colors.json
+config/hammerlib/main.cfg
+config/hammerlib/recipes/modded/hammerlib.json
+config/hammerlib/recipes/modded/improvableskills.json
+config/hammerlib/tags/modded/hammerlib.json
+config/herbalbrews.toml
+config/hmag-common.toml
+config/icterine.yml
+config/idas.toml
+config/identifier_translation.json
+config/illagerinvasion-server.toml
+config/immediatelyfast.json
+config/immersive_aircraft.json
+config/immortalers_delight-common.toml
+config/improvableskills.cfg
+config/ironfurnaces-client.toml
+config/ironfurnaces.toml
+config/jade/hide-blocks.json
+config/jade/hide-entities.json
+config/jade/jade.json
+config/jade/plugins.json
+config/jade/sort-order.json
+config/jadensnetherexpansiondelight-common.toml
+config/jecharacters.toml
+config/jei/blacklist.cfg
+config/jei/ingredient-list-mod-sort-order.ini
+config/jei/ingredient-list-type-sort-order.ini
+config/jei/jei-client.ini
+config/jei/jei-colors.ini
+config/jei/jei-debug.ini
+config/jei/jei-mod-id-format.ini
+config/jei/recipe-category-sort-order.ini
+config/jei/world/local/bookmarks.ini
+config/jei/world/local/latest/bookmarks.ini
+config/jeresources-common.toml
+config/jeresources.toml
+config/justzoom/config.txt
+config/kitchenkarrot-common.toml
+config/kiwi-client.yaml
+config/kiwi-common.yaml
+config/knightlib.toml
+config/knightquest.toml
+config/konkrete/locals/de_de.local
+config/konkrete/locals/en_us.local
+config/konkrete/locals/pl_pl.local
+config/konkrete/locals/pt_br.local
+config/l2_configs/l2artifacts-common.toml
+config/l2_configs/l2damagetracker-common.toml
+config/l2_configs/l2library-client.toml
+config/l2_configs/l2library-common.toml
+config/l2_configs/l2screentracker-client.toml
+config/l2_configs/l2screentracker-common.toml
+config/l2_configs/l2tabs-client.toml
+config/l2_configs/l2tabs-common.toml
+config/l2_configs/traderefresh-client.toml
+config/l2_configs/traderefresh-common.toml
+config/legendary_additions.toml
+config/legendary_monsters-common.toml
+config/letmedespawn.json
+config/libraryferret_1.properties
+config/lkartifacts-common.toml
+config/lmft.json
+config/lootr-client.toml
+config/lootr-common.toml
+config/lsp.json
+config/luncheonmeatsdelight-common.toml
+config/lychee-common.yaml
+config/magnumtorch-server.toml
+config/makit_better-common.toml
+config/manors_bounty.common_config.toml
+config/manors_bounty.fruit_effect_config.toml
+config/meadow.toml
+config/midnightlib.json
+config/moblassos-server.toml
+config/mobtimizations/features-customization.toml
+config/mobtimizations/features.toml
+config/mod_menu-client.toml
+config/modelfix-client.toml
+config/modernfix-common.toml
+config/modernfix-mixins.properties
+config/ModernUI/bootstrap.properties
+config/ModernUI/client.toml
+config/ModernUI/common.toml
+config/ModernUI/text.toml
+config/monolib.toml
+config/moonlight-client.toml
+config/moonlight-common.toml
+config/mosaic_cosmetics-client.toml
+config/MouseTweaks.cfg
+config/mowziesmobs-client.toml
+config/mowziesmobs-common.toml
+config/msmlegacy.json
+config/muffins_thaidelight-common.toml
+config/MythicMountsConfig.json
+config/nameless_trinkets-base.toml
+config/nameless_trinkets/amphibious_hands.json
+config/nameless_trinkets/blaze_nucleus.json
+config/nameless_trinkets/blindfold.json
+config/nameless_trinkets/broken_ankh.json
+config/nameless_trinkets/broken_magnet.json
+config/nameless_trinkets/callus.json
+config/nameless_trinkets/cracked_crown.json
+config/nameless_trinkets/creeper_sense.json
+config/nameless_trinkets/dark_nelumbo.json
+config/nameless_trinkets/dragons_eye.json
+config/nameless_trinkets/electric_paddle.json
+config/nameless_trinkets/ethereal_wings.json
+config/nameless_trinkets/experience_battery.json
+config/nameless_trinkets/experience_magnet.json
+config/nameless_trinkets/explosion_proof_jacket.json
+config/nameless_trinkets/fate_emerald.json
+config/nameless_trinkets/fertilizer.json
+config/nameless_trinkets/four_leaf_clover.json
+config/nameless_trinkets/fractured_nullstone.json
+config/nameless_trinkets/fragile_cloud.json
+config/nameless_trinkets/ghast_eye.json
+config/nameless_trinkets/gills.json
+config/nameless_trinkets/gods_crown.json
+config/nameless_trinkets/ice_cube.json
+config/nameless_trinkets/light_gloves.json
+config/nameless_trinkets/lucky_rock.json
+config/nameless_trinkets/miners_soul.json
+config/nameless_trinkets/missing_page.json
+config/nameless_trinkets/moon_stone.json
+config/nameless_trinkets/nelumbo.json
+config/nameless_trinkets/pocket_lightning_rod.json
+config/nameless_trinkets/puffer_fish_liver.json
+config/nameless_trinkets/rage_mind.json
+config/nameless_trinkets/reforger.json
+config/nameless_trinkets/reverse_card.json
+config/nameless_trinkets/scarab_amulet.json
+config/nameless_trinkets/sigil_of_baphomet.json
+config/nameless_trinkets/sleeping_pills.json
+config/nameless_trinkets/speed_force.json
+config/nameless_trinkets/spider_legs.json
+config/nameless_trinkets/super_magnet.json
+config/nameless_trinkets/tear_of_the_sea.json
+config/nameless_trinkets/tick.json
+config/nameless_trinkets/true_heart_of_the_sea.json
+config/nameless_trinkets/vampire_blood.json
+config/nameless_trinkets/what_magnet.json
+config/nameless_trinkets/wooden_stick.json
+config/naturescompass-client.toml
+config/naturescompass-common.toml
+config/neapolitan-common.toml
+config/nerb.yaml
+config/netherdepthsupgrade-common.toml
+config/netherexp-common.toml
+config/nvidium-config.json
+config/Obscuria/aquamirae-client.toml
+config/Obscuria/aquamirae-common.toml
+config/Obscuria/Data/aquamirae_cover.png
+config/Obscuria/Data/loot_journal_cover.png
+config/Obscuria/Data/obscure_api_cover.png
+config/Obscuria/obscure-api-client.toml
+config/oculus.properties
+config/otbwgdelight-common.toml
+config/overflowingbars-client.toml
+config/overweight_farming-common.toml
+config/packetfixer.properties
+config/panoramica/config.txt
+config/PasterDream-Client.toml
+config/PasterDream-Common.toml
+config/patchouli-client.toml
+config/peculiars-common.toml
+config/Plushie_Buddies-Common.toml
+config/polymorph-integrations.toml
+config/powerless_refinedstorage-common.toml
+config/prefab.toml
+config/projectile_damage.json
+config/quark-common.toml
+config/ramadandelight-common.toml
+config/ReactiveMusic.json5
+config/refinedstorage-client.toml
+config/regions_unexplored/ru-common.toml
+config/regions_unexplored/ru-primary-region.toml
+config/regions_unexplored/ru-secondary-region.toml
+config/relics/relics/amphibian_boot.yaml
+config/relics/relics/aqua_walker.yaml
+config/relics/relics/arrow_quiver.yaml
+config/relics/relics/bastion_ring.yaml
+config/relics/relics/blazing_flask.yaml
+config/relics/relics/chorus_inhibitor.yaml
+config/relics/relics/drowned_belt.yaml
+config/relics/relics/elytra_booster.yaml
+config/relics/relics/enders_hand.yaml
+config/relics/relics/holy_locket.yaml
+config/relics/relics/horse_flute.yaml
+config/relics/relics/hunter_belt.yaml
+config/relics/relics/ice_breaker.yaml
+config/relics/relics/ice_skates.yaml
+config/relics/relics/infinity_ham.yaml
+config/relics/relics/jellyfish_necklace.yaml
+config/relics/relics/leather_belt.yaml
+config/relics/relics/magic_mirror.yaml
+config/relics/relics/magma_walker.yaml
+config/relics/relics/midnight_robe.yaml
+config/relics/relics/rage_glove.yaml
+config/relics/relics/reflection_necklace.yaml
+config/relics/relics/roller_skates.yaml
+config/relics/relics/shadow_glaive.yaml
+config/relics/relics/space_dissector.yaml
+config/relics/relics/spatial_sign.yaml
+config/relics/relics/spore_sack.yaml
+config/relics/relics/wool_mitten.yaml
+config/resourceful-config-web.json
+config/ribbits-forge-1_20_1.toml
+config/ribbits-options.json
+config/rightclickharvest.toml
+config/rubidium-options.json
+config/rusticdelight-common.toml
+config/savage_and_ravage-client.toml
+config/savage_and_ravage-common.toml
+config/seasonals-common.toml
+config/servercore.toml
+config/sidebar_buttons.json
+config/silentsdelight-client.toml
+config/simplehats-client.toml
+config/simplehats-common.toml
+config/simplehats.json
+config/simplyswords_extra/backupconfig.json
+config/simplyswords_extra/loot_config.json5
+config/simplyswords_main/gem_effects.json5
+config/simplyswords_main/general.json5
+config/simplyswords_main/loot.json5
+config/simplyswords_main/runic_effects.json5
+config/simplyswords_main/status_effects.json5
+config/simplyswords_main/unique_effects.json5
+config/simplyswords_main/weapon_attributes.json5
+config/SkyLands-Config.json
+config/smoothboot.json
+config/smoothchunk.json
+config/sodium-extra-options.json
+config/sodium-extra.properties
+config/solcarrot-client.toml
+config/sophisticatedbackpacks-common.toml
+config/sophisticatedcore-client.toml
+config/sophisticatedcore-common.toml
+config/soulsweapons.json
+config/stalwartdungeonsdelight-common.toml
+config/stamina bar config.toml
+config/structureessentials.json
+config/supplementaries-client.toml
+config/supplementaries-common.toml
+config/tact-common.toml
+config/takesapillage-common.toml
+config/tanukidecor-common.toml
+config/tarotcards-common.toml
+config/teastory-client.toml
+config/teastory-common.toml
+config/terrablender.toml
+config/terramity-client-config.toml
+config/TerramityCommonConfig.toml
+config/the_bumblezone/bee_aggression.toml
+config/the_bumblezone/client.toml
+config/the_bumblezone/dimension.toml
+config/the_bumblezone/general.toml
+config/the_bumblezone/mod_compatibility.toml
+config/the_bumblezone/worldgen.toml
+config/title-screen-mob.json
+config/toms_storage-common.toml
+config/touhou_little_maid-common.toml
+config/touhou_little_maid/available_sites.yml
+config/touhou_little_maid/file/2001_matoran-0.5.0.zip
+config/touhou_little_maid/file/2b_test_sound-1.0.0.zip
+config/touhou_little_maid/file/7_year_later-0.2.3.zip
+config/touhou_little_maid/file/7_years_later_caricature-1.1.2.zip
+config/touhou_little_maid/file/abstract_maid_pack-1.1.0.zip
+config/touhou_little_maid/file/aihuo86-1.0.0.zip
+config/touhou_little_maid/file/alicesdolls-1.0.0.zip
+config/touhou_little_maid/file/anime_model_pack-1.0.zip
+config/touhou_little_maid/file/arcaea_maid_pack-1.0.2.zip
+config/touhou_little_maid/file/ascmtp-1.0.0.zip
+config/touhou_little_maid/file/ashtarte-1.0.0.zip
+config/touhou_little_maid/file/at_least_six_characters-1.0.0.zip
+config/touhou_little_maid/file/atri_sound_pack-1.0.0.zip
+config/touhou_little_maid/file/azurlane_asashio_family-1.0.1.zip
+config/touhou_little_maid/file/azuru_line-1.2.0.zip
+config/touhou_little_maid/file/ba_aru_pack-1.2.1.zip
+config/touhou_little_maid/file/ba_haruka_pack-1.0.0.zip
+config/touhou_little_maid/file/ba_kayuko_pack-1.0.0.zip
+config/touhou_little_maid/file/ba_mutsuki_pack-1.0.0.zip
+config/touhou_little_maid/file/bf1_russiansoilder_sound_pack-1.0.0.zip
+config/touhou_little_maid/file/bilanhangxian-1.0.0.zip
+config/touhou_little_maid/file/buildcraft_robot-1.0.0.zip
+config/touhou_little_maid/file/byd_bvvd-2.1.0.zip
+config/touhou_little_maid/file/cha_xiao_liu-1.0.0.zip
+config/touhou_little_maid/file/changchun-1.0.0.zip
+config/touhou_little_maid/file/christmas_nero_sd-1.1.0.zip
+config/touhou_little_maid/file/chronoir-1.0.0.zip
+config/touhou_little_maid/file/cirnosoft_prop_pack-0.3.7.zip
+config/touhou_little_maid/file/cultural_relic-2.7.0.zip
+config/touhou_little_maid/file/cute_creature-1.2.0.zip
+config/touhou_little_maid/file/danxin_sound-1.0.0.zip
+config/touhou_little_maid/file/ddlc_in_minecraft-1.1.2.zip
+config/touhou_little_maid/file/ddlc_neko_maids-1.0.1.zip
+config/touhou_little_maid/file/deltarune_little_maid-1.0.0.zip
+config/touhou_little_maid/file/dio_sounds-1.0.0.zip
+config/touhou_little_maid/file/droneeee-1.0.2.zip
+config/touhou_little_maid/file/elma-1.1.0.zip
+config/touhou_little_maid/file/fate.grand.order-0.0.1.zip
+config/touhou_little_maid/file/felyne_cat-1.0.0.zip
+config/touhou_little_maid/file/france_sound-1.0.0.zip
+config/touhou_little_maid/file/fumofumo-1.0.0.zip
+config/touhou_little_maid/file/genshin_impact-1.1.6.zip
+config/touhou_little_maid/file/german_sound-1.1.0.zip
+config/touhou_little_maid/file/god_eagle_brother-1.0.0.zip
+config/touhou_little_maid/file/godzilla_random_thing-1.0.1.zip
+config/touhou_little_maid/file/gokou_ruri_maid-1.0.0.zip
+config/touhou_little_maid/file/gyhgyj-1.2.0.zip
+config/touhou_little_maid/file/hanaya_baka-1.1.4.zip
+config/touhou_little_maid/file/hapi_skin-1.2.0.zip
+config/touhou_little_maid/file/hayaterz-1.2.3.zip
+config/touhou_little_maid/file/himehina-2.2.0.zip
+config/touhou_little_maid/file/hollow_nagato-1.0.0.zip
+config/touhou_little_maid/file/honkai_impact_3-3.0.0.zip
+config/touhou_little_maid/file/huangushi-1.0.0.zip
+config/touhou_little_maid/file/ib_maid_pack-1.0.0.zip
+config/touhou_little_maid/file/identity_v-1.2.0.zip
+config/touhou_little_maid/file/Illya_sounds-1.0.0.zip
+config/touhou_little_maid/file/inu_sakuya-1.0.0.zip
+config/touhou_little_maid/file/inuyasha-1.0.0.zip
+config/touhou_little_maid/file/isekaijoucho-1.1.0.zip
+config/touhou_little_maid/file/italian_sound-1.0.0.zip
+config/touhou_little_maid/file/jao_shingan-1.0.1.zip
+config/touhou_little_maid/file/jm_pic-1.0.0.zip
+config/touhou_little_maid/file/jojijoji-2.0.0.zip
+config/touhou_little_maid/file/jojo_log-1.0.1.zip
+config/touhou_little_maid/file/kasumizawa_miyu_voice_pack-1.1.0.zip
+config/touhou_little_maid/file/kemomimisuporter-1.0.0.zip
+config/touhou_little_maid/file/kill_la_kill-1.0.0.zip
+config/touhou_little_maid/file/lanternrite_festival-1.0.5.zip
+config/touhou_little_maid/file/lilies_model_pack-1.2.0.zip
+config/touhou_little_maid/file/little_maid_mob-1.0.0.zip
+config/touhou_little_maid/file/littlemaid_peco-1.0.0.zip
+config/touhou_little_maid/file/littlemaid_wolf-1.0.0.zip
+config/touhou_little_maid/file/lovely_robot-1.1.0.zip
+config/touhou_little_maid/file/luxury_plastic_chairs-11.45.14.zip
+config/touhou_little_maid/file/mahoraba-1.0.0.zip
+config/touhou_little_maid/file/make_sd_workwork-1.0.4.zip
+config/touhou_little_maid/file/manba_out-1.0.0.zip
+config/touhou_little_maid/file/mdv_vup-1.0.1.zip
+config/touhou_little_maid/file/medium5-1.0.0.zip
+config/touhou_little_maid/file/meidomomoi-1.0.0.zip
+config/touhou_little_maid/file/miku_miku-1.0.0.zip
+config/touhou_little_maid/file/mimikko-1.4.1.zip
+config/touhou_little_maid/file/moon_moon-1.2.0.zip
+config/touhou_little_maid/file/mr_black_rabbit_3d-1.0.0.zip
+config/touhou_little_maid/file/murasame-1.0.4.zip
+config/touhou_little_maid/file/nahida-1.0.0.zip
+config/touhou_little_maid/file/nana-1.0.0.zip
+config/touhou_little_maid/file/nanami_sound-1.0.0.zip
+config/touhou_little_maid/file/national_sachet-1.0.6.zip
+config/touhou_little_maid/file/needy_girl_overdose-1.0.0.zip
+config/touhou_little_maid/file/nekoparaii-1.1.0.zip
+config/touhou_little_maid/file/neuro_sama-1.0.0.zip
+config/touhou_little_maid/file/new_year_model_pack-1.0.0.zip
+config/touhou_little_maid/file/nier_automata3-3.0.0.zip
+config/touhou_little_maid/file/ottoman_sound_pack-1.0.0.zip
+config/touhou_little_maid/file/pajinyi-1.0.0.zip
+config/touhou_little_maid/file/pingxing_random_thing-1.1.0.zip
+config/touhou_little_maid/file/plants_vs_zombies-1.0.6.zip
+config/touhou_little_maid/file/ponies_pack-1.0.0.zip
+config/touhou_little_maid/file/ppshfemaline-1.0.1.zip
+config/touhou_little_maid/file/practice_by_hollow-1.3.0.zip
+config/touhou_little_maid/file/red_alert_robot_sound_pack-1.0.0.zip
+config/touhou_little_maid/file/ryuowork-1.0.2.zip
+config/touhou_little_maid/file/sa_cutemobs-1.0.0.zip
+config/touhou_little_maid/file/sakura_maid-1.3.0.zip
+config/touhou_little_maid/file/senko_san_ysm-1.0.0.zip
+config/touhou_little_maid/file/senren_banka-1.0.0.zip
+config/touhou_little_maid/file/shinkai_shoujo_miku-1.0.0.zip
+config/touhou_little_maid/file/shinkaiseikan-1.0.0.zip
+config/touhou_little_maid/file/shiratsuyu_class-1.0.0.zip
+config/touhou_little_maid/file/shirayuki_noa-1.1.1.zip
+config/touhou_little_maid/file/skadi_f_tlm-1.0.1.zip
+config/touhou_little_maid/file/snownee-1.0.0.zip
+config/touhou_little_maid/file/some_bilibili_ups-1.0.1.zip
+config/touhou_little_maid/file/soraka-1.0.0.zip
+config/touhou_little_maid/file/sorasaki_hina_voice_pack-1.0.0.zip
+config/touhou_little_maid/file/soulworker-1.0.0.zip
+config/touhou_little_maid/file/stonaphrospack-0.0.1.zip
+config/touhou_little_maid/file/syougatu-1.0.0.zip
+config/touhou_little_maid/file/takanashi_hoshino-1.0.0.zip
+config/touhou_little_maid/file/tall_maid-1.0.0.zip
+config/touhou_little_maid/file/tangyuan_sound-1.1.0.zip
+config/touhou_little_maid/file/tartaric_acid_things-1.1.2.zip
+config/touhou_little_maid/file/tartaric_maid-1.0.1.zip
+config/touhou_little_maid/file/teacon_2021_things-1.0.0.zip
+config/touhou_little_maid/file/tendou_arisu-1.2.1.zip
+config/touhou_little_maid/file/th_bsm-1.0.0.zip
+config/touhou_little_maid/file/the_best_soldier-1.0.0.zip
+config/touhou_little_maid/file/the_journey_of_elaina-1.3.1.zip
+config/touhou_little_maid/file/thegodofobleisk-1.0.0.zip
+config/touhou_little_maid/file/tiandingwu_random_model-1.0.0.zip
+config/touhou_little_maid/file/tlmpack_salmagundi-1.0.0.zip
+config/touhou_little_maid/file/tmsop-1.0.0.zip
+config/touhou_little_maid/file/toufamahetadeluer-1.1.0.zip
+config/touhou_little_maid/file/touhou_chronicle-1.0.0.zip
+config/touhou_little_maid/file/touhou_kaikidan-1.0.0.zip
+config/touhou_little_maid/file/touhou_kurumi-1.0.0.zip
+config/touhou_little_maid/file/touhou_lostword_model_pack-1.0.2.zip
+config/touhou_little_maid/file/touhoufumo-1.0.0.zip
+config/touhou_little_maid/file/unfinished_dream_of_all_living_ghost-1.0.0.zip
+config/touhou_little_maid/file/urara_littlemaid-0.4.1.zip
+config/touhou_little_maid/file/usa_sound-1.0.0.zip
+config/touhou_little_maid/file/various_anime_girls-1.0.5.zip
+config/touhou_little_maid/file/violet_evergarden-1.0.0.zip
+config/touhou_little_maid/file/virtual_real-1.0.2.zip
+config/touhou_little_maid/file/virtual_real_new-2.7.1.zip
+config/touhou_little_maid/file/virtuareal_mari-1.0.1.zip
+config/touhou_little_maid/file/worldend-1.1.0.zip
+config/touhou_little_maid/file/xuanxuan_sound-1.1.0.zip
+config/touhou_little_maid/file/xuyeshe_model_pack-1.0.0.zip
+config/touhou_little_maid/file/yezi_sound-1.1.0.zip
+config/touhou_little_maid/file/yingbai_arknights_pack-1.0.4.zip
+config/touhou_little_maid/file/yingbai_arknights_pack-1.0.5.zip
+config/touhou_little_maid/file/yqnuannuancun-1.0.0.zip
+config/touhou_little_maid/file/zhi_ban-1.0.0.zip
+config/touhou_little_maid/info.json
+config/trashslot-common.toml
+config/travelerstitles-forge-1_20.toml
+config/twilightdelight-client.toml
+config/twilightdelight-common.toml
+config/twilightforest-client.toml
+config/twilightforest-common.toml
+config/ubesdelight.json
+config/undergarden-client.toml
+config/undergarden-common.toml
+config/underground_villages-common.toml
+config/untamedwilds-common.toml
+config/unusualend-common.toml
+config/upgrade_aquatic-client.toml
+config/upgrade_aquatic-common.toml
+config/vanillacookbook-client.toml
+config/vanillacookbook-common.toml
+config/variantsandventures.json
+config/vinery.toml
+config/visuality/config.toml
+config/visuality/particle_emitters/block_ambient.json
+config/visuality/particle_emitters/block_step.json
+config/visuality/particle_emitters/entity_armor.json
+config/visuality/particle_emitters/entity_hit.json
+config/vm-common.toml
+config/voidz.json5
+config/wan_ancient_beasts-common.toml
+config/wandering_bags/bagLootrate
+config/wandering_bags/enableRelics
+config/Wardrobe.toml
+config/watut-client.toml
+config/watut-common.toml
+config/watut-item-arm-adjustments.json
+config/waystones-common.toml
+config/wetlands.json
+config/xaerominimap-common.txt
+config/xaerominimap.txt
+config/xaerominimap_entities.json
+config/xaeropatreon.txt
+config/xaeroworldmap-common.txt
+config/xaeroworldmap.txt
+config/yacl.json5
+config/youkaishomecoming-client.toml
+config/youkaishomecoming-common.toml
+config/zeta-common.toml
+config/zillagersweararmor-client.toml
+config/zillagersweararmor-common.toml
+defaultconfigs/curios-server.toml
+defaultconfigs/ftblibrary/ftblibrary-client.snbt
+defaultconfigs/ftbquests/client-config.snbt
+defaultconfigs/ftbultimine/ftbultimine-client.snbt
+defaultconfigs/ftbultimine/ftbultimine-server.snbt
+defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt
+defaultconfigs/solcarrot-server.toml
+hmclversion.cfg
+kubejs/assets/kubejs/textures/block/example_block.png
+kubejs/assets/kubejs/textures/item/example_item.png
+kubejs/client_scripts/jei.js
+kubejs/client_scripts/xiaoyu.js
+kubejs/config/client.properties
+kubejs/config/common.properties
+kubejs/config/probejs.json
+kubejs/data/braziliandelight/worldgen/placed_feature/lemon_tree_placed.json
+kubejs/data/braziliandelight/worldgen/placed_feature/patch_wild_corn_placed.json
+kubejs/data/jellyfishing/worldgen/placed_feature/pineapple_plant_feature.json
+kubejs/README.txt
+kubejs/server_scripts/recipe.js
+kubejs/startup_scripts/ant.js
+kubejs/startup_scripts/example.js
+manifest.json
+modpack.cfg
+mods/.connector/\[Soaring Structures 2\] Soaring-Structures-2-1.20.1-2.5.1-FABRIC_mapped_srg_1.20.1.jar
+mods/.connector/\[Soaring Structures 2\] Soaring-Structures-2-1.20.1-2.5.1-FABRIC_mapped_srg_1.20.1.jar.input
+mods/.connector/\[韵律回响\] reactivemusic-1.0.3+1.20.1_mapped_srg_1.20.1.jar
+mods/.connector/\[韵律回响\] reactivemusic-1.0.3+1.20.1_mapped_srg_1.20.1.jar.input
+mods/.connector/adventurez-1.4.20_mapped_srg_1.20.1.jar
+mods/.connector/adventurez-1.4.20_mapped_srg_1.20.1.jar.input
+mods/.connector/bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar
+mods/.connector/bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar.input
+mods/.connector/bclib-3.0.14_mapped_srg_1.20.1.jar
+mods/.connector/bclib-3.0.14_mapped_srg_1.20.1.jar.input
+mods/.connector/better-end-4.0.11_mapped_srg_1.20.1.jar
+mods/.connector/better-end-4.0.11_mapped_srg_1.20.1.jar.input
+mods/.connector/better-end-cities-better-end-1.0.0_mapped_srg_1.20.1.jar
+mods/.connector/better-end-cities-better-end-1.0.0_mapped_srg_1.20.1.jar.input
+mods/.connector/better-nether-9.0.10_mapped_srg_1.20.1.jar
+mods/.connector/better-nether-9.0.10_mapped_srg_1.20.1.jar.input
+mods/.connector/betterend-crashed-ships-1.0.0_mapped_srg_1.20.1.jar
+mods/.connector/betterend-crashed-ships-1.0.0_mapped_srg_1.20.1.jar.input
+mods/.connector/bountifulfares-1.2.1-1.20.1$terraform-wood-api-v1-7.0.1$mixinextras-fabric-0.2.0-beta.5_mapped_srg_1.20.1.jar
+mods/.connector/bountifulfares-1.2.1-1.20.1$terraform-wood-api-v1-7.0.1$mixinextras-fabric-0.2.0-beta.5_mapped_srg_1.20.1.jar.input
+mods/.connector/bountifulfares-1.2.1-1.20.1$terraform-wood-api-v1-7.0.1_mapped_srg_1.20.1.jar
+mods/.connector/bountifulfares-1.2.1-1.20.1$terraform-wood-api-v1-7.0.1_mapped_srg_1.20.1.jar.input
+mods/.connector/bountifulfares-1.2.1-1.20.1_mapped_srg_1.20.1.jar
+mods/.connector/bountifulfares-1.2.1-1.20.1_mapped_srg_1.20.1.jar.input
+mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar
+mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input
+mods/.connector/convenientdecor-0.4.3$omega-config-base-1.4.0+1.20.1_mapped_srg_1.20.1.jar
+mods/.connector/convenientdecor-0.4.3$omega-config-base-1.4.0+1.20.1_mapped_srg_1.20.1.jar.input
+mods/.connector/convenientdecor-0.4.3_mapped_srg_1.20.1.jar
+mods/.connector/convenientdecor-0.4.3_mapped_srg_1.20.1.jar.input
+mods/.connector/dragonloot-1.1.4_mapped_srg_1.20.1.jar
+mods/.connector/dragonloot-1.1.4_mapped_srg_1.20.1.jar.input
+mods/.connector/temp/\[更好的末地乐事\] BetterEndDelight-0.3.0-alpha$WunderLib-1.1.5.jar
+mods/.connector/temp/\[更好的末地乐事\] BetterEndDelight-0.3.0-alpha$WunderLib-1.1.5.jar.input
+mods/.connector/temp/bclib-3.0.14$wunderlib-1.1.5.jar
+mods/.connector/temp/bclib-3.0.14$wunderlib-1.1.5.jar.input
+mods/.connector/temp/bountifulfares-1.2.1-1.20.1$terraform-wood-api-v1-7.0.1$mixinextras-fabric-0.2.0-beta.5.jar
+mods/.connector/temp/bountifulfares-1.2.1-1.20.1$terraform-wood-api-v1-7.0.1$mixinextras-fabric-0.2.0-beta.5.jar.input
+mods/.connector/temp/bountifulfares-1.2.1-1.20.1$terraform-wood-api-v1-7.0.1.jar
+mods/.connector/temp/bountifulfares-1.2.1-1.20.1$terraform-wood-api-v1-7.0.1.jar.input
+mods/.connector/temp/convenientdecor-0.4.3$omega-config-base-1.4.0+1.20.1.jar
+mods/.connector/temp/convenientdecor-0.4.3$omega-config-base-1.4.0+1.20.1.jar.input
+mods/.connector/temp/kafvalentine-fabric-1.4.0+1.20.1$lavender-0.1.0-pre.18+1.20$core-0.1.0-pre.3+1.20.jar
+mods/.connector/temp/kafvalentine-fabric-1.4.0+1.20.1$lavender-0.1.0-pre.18+1.20$core-0.1.0-pre.3+1.20.jar.input
+mods/.connector/temp/kafvalentine-fabric-1.4.0+1.20.1$lavender-0.1.0-pre.18+1.20$owo-ui-0.1.0-pre.3+1.20.jar
+mods/.connector/temp/kafvalentine-fabric-1.4.0+1.20.1$lavender-0.1.0-pre.18+1.20$owo-ui-0.1.0-pre.3+1.20.jar.input
+mods/.connector/temp/kafvalentine-fabric-1.4.0+1.20.1$lavender-0.1.0-pre.18+1.20.jar
+mods/.connector/temp/kafvalentine-fabric-1.4.0+1.20.1$lavender-0.1.0-pre.18+1.20.jar.input
+mods/.connector/voidz-1.0.11_mapped_srg_1.20.1.jar
+mods/.connector/voidz-1.0.11_mapped_srg_1.20.1.jar.input
+mods/0Pack2Reload-Forge-1.20.1-1.0.1.jar
+mods/0World2Create-Universal-1.19-1.20.X-1.0.0.jar
+mods/\[forge\]ctov-3.4.11.jar
+mods/abnormals_delight-1.20.1-5.0.0.jar
+mods/abridged-forge-1.20.x-1.1.1.jar
+mods/acedium-0.2.7-beta.jar
+mods/additionaladditions-6.0.1.jar
+mods/adventurez-1.4.20.jar
+mods/AI-Improvements-1.20-0.5.2.jar
+mods/alexs_caves_delight-1.0.0-forge-1.20.1.jar
+mods/alexscaves-2.0.2.jar
+mods/alexscaves_torpedoes-1.0.2.jar
+mods/alexsdelight-1.5.jar
+mods/alexsmobs-1.22.9.jar
+mods/AlwaysEat-5.2.jar
+mods/ambientadditions-1.20.1-1.1.0.jar
+mods/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar
+mods/amendments-1.20-1.2.18.jar
+mods/any_lanterns_1.2_1.20.1.jar
+mods/appleskin-forge-mc1.20.1-2.5.1.jar
+mods/Aquaculture-1.20.1-2.5.3.jar
+mods/aquaculturedelight-1.1.0-forge-1.20.1.jar
+mods/aquamirae-6.API15.jar
+mods/aquamirae_delight-1.5.1-forge-1.20.1.jar
+mods/architectury-9.2.14-forge.jar
+mods/Argentina's delight 1.20.1 (3.0 beta).jar
+mods/Armor of the Ages-forge-1.20.1-1.3.1.jar
+mods/artifacts-forge-9.5.13.jar
+mods/async-locator-forge-1.20-1.3.0.jar
+mods/atmospheric-1.20.1-6.1.0.jar
+mods/AttributeFix-Forge-1.20.1-21.0.4.jar
+mods/autumnity-1.20.1-5.0.2.jar
+mods/babyfat-1.0.0.jar
+mods/BadMobs-1.20.1-19.0.4.jar
+mods/bagus_lib-1.20.1-5.3.0.jar
+mods/balm-forge-1.20.1-7.3.17-all.jar
+mods/barbequesdelight-1.0.5.jar
+mods/bbsmc_ad-1.0-1.20.1-forge.jar
+mods/bclib-3.0.14.jar
+mods/beautify-2.0.2.jar
+mods/beekeeperhut-forge-mc1.20.1-2.0.1.jar
+mods/bettas-1.1.0.jar
+mods/better-end-4.0.11.jar
+mods/better-end-cities-better-end-1.0.0.jar
+mods/better-nether-9.0.10.jar
+mods/Better_Modlist-0.1.11-all.jar
+mods/bettercombat-forge-1.8.6+1.20.1.jar
+mods/betterdays-1.20.1-3.1.1.1-FORGE.jar
+mods/biomemakeover-FORGE-1.20.1-1.11.4.jar
+mods/BiomesOPlenty-forge-1.20.1-19.0.0.94.jar
+mods/blueprint-1.20.1-7.1.0.jar
+mods/blueprintfix-forge-1.0.0-1.20.1.jar
+mods/BOMD-Forge-1.20.1-1.1.2.jar
+mods/Bookshelf-Forge-1.20.1-20.2.13.jar
+mods/born_in_chaos_\[Forge\]1.20.1_1.6.2_chilling-horror-event.jar
+mods/bountifulfares-1.2.1-1.20.1.jar
+mods/bowinfinityfix-1.20.x-forge-2.6.0.jar
+mods/braziliandelight-1.1.0-all.jar
+mods/BrewinAndChewin-1.20.1-3.1.2.jar
+mods/buzzier_bees-1.20.1-6.0.0.jar
+mods/caelus-forge-3.2.0+1.20.1.jar
+mods/call_of_drowner-0.1.2-forge-1.20.1.jar
+mods/call_of_yucutan-1.0.13-forge-1.20.1.jar
+mods/carryon-forge-1.20.1-2.1.2.7.jar
+mods/casualness_delight-1.20.1-0.4n.jar
+mods/cataclysmiccombat-1.4.jar
+mods/caupona-1.20.1-0.4.10.jar
+mods/caverns_and_chasms-1.20.1-2.0.0.jar
+mods/celestial_artifacts-1.5.1.jar
+mods/celestial_core-1.5.2.jar
+mods/celestisynth-1.20.1-1.3.1.jar
+mods/CerbonsAPI-Forge-1.20.1-1.1.0.jar
+mods/chefs-delight-1.0.3-forge-1.20.1.jar
+mods/Chimes-v2.0.1-1.20.1.jar
+mods/chloride-FORGE-mc1.20.1-v1.5.0.jar
+mods/citadel-2.6.1-1.20.1.jar
+mods/cloth-config-11.1.136-forge.jar
+mods/cluttered-2.1-1.20.1.jar
+mods/cmeet.jar
+mods/cmegs.jar
+mods/collective-1.20.1-7.87.jar
+mods/collectorsreap-1.20.1-1.3.3.jar
+mods/combatroll-forge-1.3.3+1.20.1.jar
+mods/Compat_FarmersDelight.jar
+mods/configured-forge-1.20.1-2.2.3.jar
+mods/Connector-1.0.0-beta.46+1.20.1.jar
+mods/ConnectorExtras-1.11.2+1.20.1.jar
+mods/constantmusic-forge-1.20.1-1.0.5.jar
+mods/constructionwand-1.20.1-2.11.jar
+mods/continuity-3.0.0+1.20.1.forge.jar
+mods/convenientdecor-0.4.3.jar
+mods/convivium-1.20.1-0.1.10.jar
+mods/cookingforblockheads-forge-1.20.1-16.0.12.jar
+mods/Corgilib-Forge-1.20.1-4.0.3.3.jar
+mods/cornexpansion-forge-1.0.1.jar
+mods/coroutil-forge-1.20.1-1.3.7.jar
+mods/cosmeticarmorreworked-1.20.1-v1a.jar
+mods/cozy_home-3.0.4-forge-1.20.1.jar
+mods/CrabbersDelight-1.20.1-1.1.7d.jar
+mods/cratedelight-24.11.29-1.20-forge.jar
+mods/CreativeCore_FORGE_v2.12.30_mc1.20.1.jar
+mods/creeperconfetti-4.3.jar
+mods/creeperoverhaul-3.0.2-forge.jar
+mods/crescentlib-1.0.0.jar
+mods/crittersandcompanions-forge-2.2.2.jar
+mods/CrockPot-1.20.1-1.0.6-release.jar
+mods/ctov-beautify-compat-2.0.jar
+mods/ctov-chefs-delight-compat-2.0.jar
+mods/ctov-friends-and-foes-compat-2.0.jar
+mods/ctov-incubation-compat-2.0.jar
+mods/ctov-jellyfishing-compat-1.0.jar
+mods/ctov-savage-and-ravage-compat-2.0.jar
+mods/culturaldelights-0.16.2.jar
+mods/cupboard-1.20.1-2.7.jar
+mods/curios-forge-5.11.1+1.20.1.jar
+mods/curiouslanterns-1.20.1-1.3.3.jar
+mods/CustomSkinLoader_ForgeV2-14.21.1.jar
+mods/DarkPaintings-Forge-1.20.1-17.0.4.jar
+mods/deeperdarker-forge-1.20.1-1.3.3.jar
+mods/Delightful-1.20.1-3.7.jar
+mods/deltaboxlib-1.1.3.jar
+mods/displaydelight-0.0.1-lite.jar
+mods/dragonloot-1.1.4.jar
+mods/drinkbeer-refill-1.20.1-1.0.5.jar
+mods/dummmmmmy-1.20-2.0.6.jar
+mods/dumplings_delight-1.2.1.jar
+mods/DungeonsArise-1.20.x-2.1.58-release.jar
+mods/DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar
+mods/earthmobsmod-1.20.1-10.5.0.jar
+mods/ecologics-forge-1.20.1-2.2.0.jar
+mods/eeeabsmobs-1.20.1-0.97-Fix.jar
+mods/ElysiumAPI-1.20.1-1.0.2.jar
+mods/elytraslot-forge-6.4.4+1.20.1.jar
+mods/embeddium-0.3.31+mc1.20.1.jar
+mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar
+mods/endergetic-1.20.1-5.0.1.jar
+mods/endermanoverhaul-forge-1.20.1-1.0.4.jar
+mods/endersdelight-1.20.1-1.0.3.jar
+mods/EndlessBiomes 1.6.0 - 1.20.1.jar
+mods/ends_delight-1.20.1-2.5.jar
+mods/enigmaticaddons-1.2.2.jar
+mods/enigmaticdelicacy-1.0.0.jar
+mods/EnigmaticLegacy-2.30.1.jar
+mods/enlightend-5.0.14-1.20.1.jar
+mods/entity_model_features_forge_1.20.1-2.4.1.jar
+mods/entity_texture_features_forge_1.20.1-6.2.9.jar
+mods/entityculling-forge-1.7.2-mc1.20.1.jar
+mods/EpheroLib-1.20.1-FORGE-1.2.0.jar
+mods/Etcetera-1.20.1-1.1.3-Forge.jar
+mods/EuphoriaPatcher-1.5.1-r5.4-forge.jar
+mods/expandability-9.0.4.jar
+mods/expandedstorage-10.2.2+1.20.1-forge.jar
+mods/ExplorersCompass-1.20.1-1.3.3-forge.jar
+mods/exposure-1.20.1-1.7.7-forge.jar
+mods/exquisito-1.20.1-2.0.0.jar
+mods/extrameat-1.0.0.jar
+mods/fabric-api-0.92.2+1.11.9+1.20.1.jar
+mods/fancymenu_forge_3.3.2_MC_1.20.1.jar
+mods/FarmersDelight-1.20.1-1.2.7.jar
+mods/farmersplus-1.0.3.jar
+mods/farmersrespite-1.20.1-2.1.2.jar
+mods/FarmersStructures-1.0.3-1.20.jar
+mods/farmingforblockheads-forge-1.20.1-14.0.2.jar
+mods/fastboot-1.20.x-1.2.jar
+mods/FastFurnace-1.20.1-8.0.1.jar
+mods/fastpaintings-1.20-1.2.7.jar
+mods/ferritecore-6.0.1-forge.jar
+mods/Festive_Delight_1.3_Forge_1.20.1.jar
+mods/fishermens_trap-2.1.4.jar
+mods/flowerymooblooms-forge-mc1.20.1-2.0.2.jar
+mods/framework-forge-1.20.1-0.7.12.jar
+mods/freecam-forge-1.2.1+1.20.jar
+mods/friendsandfoes-forge-mc1.20.1-3.0.7.jar
+mods/fruitsdelight-1.0.16.jar
+mods/ftb-library-forge-2001.2.8.jar
+mods/ftb-quests-forge-2001.4.10.jar
+mods/ftb-teams-forge-2001.3.1.jar
+mods/ftb-ultimine-forge-2001.1.5.jar
+mods/ftb-xmod-compat-forge-2.1.2.jar
+mods/ftbbackups2-forge-1.20-1.0.23.jar
+mods/Galosphere-1.20.1-1.4.1-Forge.jar
+mods/geckolib-forge-1.20.1-4.7.jar
+mods/GeckoLibOculusCompat-Forge-1.0.1.jar
+mods/gelato_galore-1.0-1.20.1.jar
+mods/ghosts-1.20.1-1.1.0.jar
+mods/GlitchCore-forge-1.20.1-0.0.1.1.jar
+mods/gnumus_settlement_\[Forge\]1.20.1_v1.0.jar
+mods/goblintraders-forge-1.20.1-1.9.3.jar
+mods/guardvillagers-1.20.1-1.6.10.jar
+mods/habitat-1.3.1.jar
+mods/hamsters-forge-1.0.3-1.20.1.jar
+mods/handcrafted-forge-1.20.1-3.0.6.jar
+mods/Icterine-forge-1.20.0-1-1.3.0.jar
+mods/IllagerInvasion-v8.0.7-1.20.1-Forge.jar
+mods/ImmediatelyFast-Forge-1.3.4+1.20.4.jar
+mods/immersive_aircraft-1.1.8+1.20.1-forge.jar
+mods/immortalers_delight-forge-1.0.1.jar
+mods/incubation-1.20.1-4.0.4.jar
+mods/infwithmend-forge-1.20.x-1.0.2.jar
+mods/ironfurnaces-1.20.1-4.1.6.jar
+mods/ISE_LegacyRandomSource-1.0-SNAPSHOT.jar
+mods/item-filters-forge-2001.1.0-build.59.jar
+mods/Jade-1.20.1-Forge-11.12.3.jar
+mods/Jadens-Nether-Expansion-2.2.1.jar
+mods/jadensnetherexpansiondelight-1.0.2-1.20.1.jar
+mods/jagmkiwis-1.20.1-1.1.1.jar
+mods/jecharacters-1.20.1-forge-4.5.11.jar
+mods/jei-1.20.1-forge-15.20.0.106.jar
+mods/Jellyfishing-2.0.7.jar
+mods/jellyfishingdelight-1.0.3.jar
+mods/justenoughbreeding-forge-1.20-1.20.1-1.5.0.jar
+mods/JustEnoughResources-1.20.1-1.4.0.247.jar
+mods/justzoom_forge_2.0.0_MC_1.20.1.jar
+mods/kaleidoscope-1.0.0.jar
+mods/kebab-1.0-forge-1.20.1.jar
+mods/kitchenkarrot-1.20.1-0.5.4.jar
+mods/knightlib-forge-1.20.1-1.2.0.jar
+mods/knightquest-forge-1.20.1-1.8.3.jar
+mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar
+mods/kotlinforforge-4.11.0-all.jar
+mods/kubejs-forge-2001.6.5-build.16.jar
+mods/kubejsdelight-1.1.2.jar
+mods/L_Enders_Cataclysm-2.46- 1.20.1.jar
+mods/largemeals-1.20.1-1.3.0.jar
+mods/latiaocraft2-forge-1.20.1-1.0.5.jar
+mods/legendarymonsters-1.6.2 MC 1.20.1.jar
+mods/letsdo-API-forge-1.2.15-forge.jar
+mods/letsdo-bakery-forge-2.0.3.jar
+mods/letsdo-beachparty-forge-1.1.5.jar
+mods/letsdo-brewery-forge-2.0.3.jar
+mods/letsdo-candlelight-forge-2.0.2.jar
+mods/letsdo-farm_and_charm-forge-1.0.4.jar
+mods/letsdo-herbalbrews-forge-1.0.10.jar
+mods/letsdo-nethervinery-forge-1.2.16.jar
+mods/letsdo-vinery-forge-1.4.37.1.jar
+mods/libraryferret-forge-1.20.1-4.0.0.jar
+mods/lionfishapi-2.4-Fix.jar
+mods/lithostitched-forge-1.20.1-1.4.jar
+mods/lootjs-forge-1.20.1-2.12.0.jar
+mods/lootr-forge-1.20-0.7.35.90.jar
+mods/luncheon-meat-s-delight-1.0.4-forge-1.20.1.jar
+mods/MagnumTorch-v8.0.2-1.20.1-Forge.jar
+mods/makit_better-1.20.1-1.0.1.jar
+mods/manors_bounty-0.2.11.jar
+mods/mcw-bridges-3.0.0-mc1.20.1forge.jar
+mods/mcw-doors-1.1.1forge-mc1.20.1.jar
+mods/mcw-fences-1.1.2-mc1.20.1forge.jar
+mods/mcw-stairs-1.0.0-1.20.1forge.jar
+mods/mcw-windows-2.3.0-mc1.20.1forge.jar
+mods/meetyourfight-1.20.1-1.4.3.jar
+mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar
+mods/midashunger-2.2.1+1.20-forge.jar
+mods/midnightlib-forge-1.4.1.jar
+mods/mineraldelight-1.5.jar
+mods/miners_delight-1.20.1-1.2.3.jar
+mods/MissingWilds-forge-1.2.1+1.20.1.jar
+mods/MobLassos-v8.0.1-1.20.1-Forge.jar
+mods/mobtimizations-forge-1.20.1-1.0.0.jar
+mods/modernfix-forge-5.20.2+mc1.20.1.jar
+mods/ModernUI-Forge-1.20.1-3.11.1.6-universal.jar
+mods/mokels bossfight kinora 1.0.jar
+mods/mokels_bossfight_saphyra-2.0.2-forge-1.20.1.jar
+mods/moonlight-1.20-2.13.56-forge.jar
+mods/More Wandering Trades 1.0.0 - 1.20.1.jar
+mods/moredelight-25.01.13-1.20-forge.jar
+mods/moremobvariants-forge+1.20.1-1.3.0.1.jar
+mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar
+mods/mowziesmobs-1.7.0.jar
+mods/muffins-thai-delight-forge-1.0.0.jar
+mods/Mutated-Items-3.0.0-forge-1.20.1.jar
+mods/MyNethersDelight-1.20.1-0.1.7.5.jar
+mods/mythicmounts-20.1-7.4.2-forge.jar
+mods/Nameless Trinkets-1.20.1-1.8.3.jar
+mods/NaturesCompass-1.20.1-1.11.2-forge.jar
+mods/neapolitan-1.20.1-5.0.0.jar
+mods/nether-s-exoticism-1.20.1-1.2.9.jar
+mods/netherdepthsupgrade-3.1.5-1.20.jar
+mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar
+mods/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar
+mods/notrample-1.20.1-1.0.1.jar
+mods/obscure_api-15.jar
+mods/oceanic_delight-1.0.3-forge-1.20.1.jar
+mods/OctoLib-FORGE-0.4.2+1.20.1.jar
+mods/oculus-mc1.20.1-1.8.0.jar
+mods/Oh-The-Biomes-Weve-Gone-Forge-1.5.4.jar
+mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.4.jar
+mods/open-parties-and-claims-forge-1.20.1-0.24.0.jar
+mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar
+mods/overweightfarming-1.20.1-2.1.0-forge.jar
+mods/packetfixer-forge-1.4.3-1.19-to-1.20.1.jar
+mods/PasterDream-forge1.20.1-beta0.3.5-7.jar
+mods/Patchouli-1.20.1-84-FORGE.jar
+mods/Pati_structures_1.3.0_forge_1.20.jar
+mods/peculiars-1.20.1-5.0.0.jar
+mods/phantasmic-1.20.1-0.2.5.jar
+mods/PineappleDelight-Forge-1.20-1.0.8-Fix2.jar
+mods/Placebo-1.20.1-8.3.7.jar
+mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+mods/plushie_buddies-0.1.2-1.20.1.jar
+mods/polylib-forge-2000.0.3-build.143.jar
+mods/polymorph-forge-0.49.8+1.20.1.jar
+mods/prefab-1.10.0.1.jar
+mods/projectile_damage-forge-3.2.2+1.20.1.jar
+mods/PuzzlesLib-v8.1.25-1.20.1-Forge.jar
+mods/Quark-4.0-460.jar
+mods/quark_delight_1.0.0_forge_1.20.1.jar
+mods/radiantgear-forge-2.2.0+1.20.1.jar
+mods/radiation_zone-1.20.1_forge-1.1.4.jar
+mods/ramadandelight-1.0.jar
+mods/reactivemusic-1.0.3+1.20.1.jar
+mods/redirected-forge-1.0.0-1.20.1.jar
+mods/refinedstorage-1.12.4.jar
+mods/refinedstorageaddons-0.10.0.jar
+mods/RegionsUnexploredForge-0.5.6+1.20.1.jar
+mods/relics-1.20.1-0.8.0.7.jar
+mods/resourcefulconfig-forge-1.20.1-2.1.2.jar
+mods/resourcefullib-forge-1.20.1-2.1.29.jar
+mods/rhino-forge-2001.2.3-build.10.jar
+mods/Ribbits-1.20.1-Forge-3.0.4.jar
+mods/right-click-harvest-3.2.3+1.20.1-forge.jar
+mods/RSInfinityBooster-1.20.1-1.0+41.jar
+mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar
+mods/rustic_engineer-1.20.1-1.0.9.jar
+mods/rusticdelight-forge-1.20.1-1.4.0.jar
+mods/savage_and_ravage-1.20.1-6.0.0.jar
+mods/scg-vefc.jar
+mods/seasonals-1.20.1-5.0.2.jar
+mods/SeedDelight-NeoorForge-1.20.1-1.0.1.jar
+mods/SereneShrubbery-1.20.1-v2.0.0.jar
+mods/sherdsapi-neoforge-1.20.1-4.0.4.jar
+mods/silentsdelight-forge-1.0.1-1.20.1.jar
+mods/simplehats-forge-1.20.1-0.3.2.jar
+mods/simplyswords-forge-1.56.0-1.20.1.jar
+mods/Skay's Overworld Netherite RELEASE 1.20.1 Forge.jar
+mods/Slime_Delight-1.20.1_forge-1.1.0.jar
+mods/Sniffer's delicacies 1.20.1 v1.5.jar
+mods/solcarrot-1.20.1-1.15.1.jar
+mods/sophisticatedbackpacks-1.20.1-3.23.5.1200.jar
+mods/sophisticatedcore-1.20.1-1.2.14.875.jar
+mods/soulslike-weaponry-1.1.5-1.20.1-forge.jar
+mods/Spawn-1.20.1-1.0.2.jar
+mods/Species-1.20.1-2.3-forge.jar
+mods/stalwart-dungeons-1.20.1-1.2.8.jar
+mods/starlight-1.1.2+forge.1cda73c.jar
+mods/sunflowerdelight-1.20.1-1.0.4.jar
+mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar
+mods/supplementaries-1.20-3.1.12.jar
+mods/tact-1.2.3+1.20.1.jar
+mods/takesapillage-1.0.3-1.20.1.jar
+mods/tanukidecor-20.1.1.0.jar
+mods/tarotcards-1.20-1.7.0.jar
+mods/Tea-the-Story-Recount-1.20.1-forge-0.4.jar
+mods/TerraBlender-forge-1.20.1-3.0.1.7.jar
+mods/terramity-0.9.8-forge-1.20.1.jar
+mods/the_bumblezone-7.5.13+1.20.1-forge.jar
+mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar
+mods/The_Undergarden-1.20.1-0.8.14.jar
+mods/TitleScreenMobs-0.2.1-1.20.1-forge.jar
+mods/totw_modded-forge-1.20.1-1.0.5.jar
+mods/touhoulittlemaid-1.20.1-release-1.1.14.jar
+mods/traderefresh-2.4.5.jar
+mods/trailandtales_delight-0.3.1-all.jar
+mods/trashslot-forge-1.20-15.1.1.jar
+mods/TravelersTitles-1.20-Forge-4.0.2.jar
+mods/Twigs-1.20.1-3.1.0.jar
+mods/twilightdelight-2.0.13.jar
+mods/twilightforest-1.20.1-4.3.2508-universal.jar
+mods/txnilib-forge-1.0.22-1.20.1.jar
+mods/ubesdelight-forge-1.20.1-0.3.2.jar
+mods/ultramarine-1.20.1-0.2.1.jar
+mods/undergardendelight-1.1.1-forge-1.20.1.jar
+mods/untameddelight-1.20.1-1.1.0.jar
+mods/untamedwilds-1.20.1-4.0.4.jar
+mods/unusualfishmod-1.1.8.jar
+mods/upgrade_aquatic-1.20.1-6.0.2.jar
+mods/useless-sword-1.20.1-V1.4.2.jar
+mods/VanillaCookbook-2.2.2.jar
+mods/verdantvibes-1.0.3-1.20.1.jar
+mods/vintagedelight-0.1.6.jar
+mods/visuality-forge-2.0.2.jar
+mods/voidz-1.0.11.jar
+mods/wab-1.20-1.1.2.jar
+mods/wandering-bags-1.20.1-2.0.7.jar
+mods/wardrobe-1.0.3.1-forge-1.20.1.jar
+mods/watut-forge-1.20.1-1.1.3.jar
+mods/waystones-forge-1.20-14.1.7.jar
+mods/Xaeros_Minimap_25.0.0_Forge_1.20.jar
+mods/XaerosWorldMap_1.39.2_Forge_1.20.jar
+mods/YetAnotherConfigLib-3.6.2+1.20.1-forge.jar
+mods/youkaishomecoming-2.3.2.jar
+mods/YungsApi-1.20-Forge-4.0.6.jar
+mods/Zeta-1.0-24.jar
+options.txt
+resourcepacks/Better-Leaves-9.0.zip
+resourcepacks/Create Style for Refined Storage.zip
+resourcepacks/explorerscompass-CHS-master.zip
+resourcepacks/Fancy Crops v1.1.zip
+resourcepacks/Fast Better Grass.zip
+resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
+resourcepacks/Nature X - 12.2 \[1.20.1\].zip
+resourcepacks/Os' Colorful Grasses.zip
+resourcepacks/Quark Programmer Art.zip
+resourcepacks/Rainbow Enchantment Glint v1.1.zip
+resourcepacks/Stay_True_1.20.zip
+resourcepacks/updated_aquaculture-1.0.zip
+resourcepacks/waystones_1.20.zip
+resourcepacks/§6Drodi's Villagers \[V2.7\].zip
+resourcepacks/§c§l1.20.1小宇-材质扩展汉化包.zip
+resourcepacks/南烛☆水晶血量x黄苹果饱食度.zip
+resourcepacks/南烛☆透明物品栏x数字x星星选择框.zip
+resourcepacks/帕秋莉汉化材质包-1.20.1.zip
+resourcepacks/彩虹像素RainbowPixel~☆v3.5.4.zip
+resourcepacks/彩虹像素☆村民交易UI删减包.zip
+resourcepacks/彩虹像素☆禁用树-模型-1.0.zip
+resourcepacks/汉化乐事v1.8.zip
+resourcepacks/补充汉化材质包-1.20.1.zip
+shaderpacks/(神优化)Derivative Main d24.4.14.zip
+shaderpacks/(神优化)Derivative Main d24.4.14.zip.txt
+shaderpacks/(精心配置)Photon-GAMS-main.zip
+shaderpacks/(精心配置)Photon-GAMS-main.zip.txt
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/ComplementaryLicense.txt
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/Credits.txt
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/EuphoriaPatchesLicense.txt
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/InformationEuphoriaPatches.md
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/Made for Complementary Shaders r5.4.txt
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaderFile_Versions.txt
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/block.properties
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/dimension.properties
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/entity.properties
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/item.properties
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/en_US.lang
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/ja_JP.lang
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/pl_PL.lang
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/ru_RU.lang
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/uk_UA.lang
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/zh_CN.lang
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/antialiasing/fxaa.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/antialiasing/jitter.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/antialiasing/taa.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/auroraBorealis.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/bedrockNoise.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/clouds/cloudCoord.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/clouds/mainClouds.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/clouds/unboundClouds.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/endCrystalVortex.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/enderBeams.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/enderStars.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/endPortalBeam.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/bloomFog.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/caveFactor.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/coloredLightFog.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/mainFog.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/waterFog.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/netherNoise.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/netherStorm.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/nightNebula.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/overworldBeams.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/rainbow.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/sky.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/stars.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/volumetricLight.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/blocklightColors.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/cloudColors.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/colorMultipliers.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/lightAndAmbientColors.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/moonPhaseInfluence.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/skyColors.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/common.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/lighting/coloredBlocklight.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/lighting/ggx.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/lighting/mainLighting.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/lighting/shadowSampling.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/blockEntityMaterials.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/customMaterials.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/deferredMaterials.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/entityMaterials.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/irisMaterials.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/terrainMaterials.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/translucentMaterials.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/coatedTextures.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/connectedGlass.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/customEmission.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/generatedNormals.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/pomEffects.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/reflections.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/refraction.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/snowyWorld.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/wavingBlocks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/overlayNoise.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/overlayNoiseApply.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/seasons.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/seasonsTime.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/others/signText.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/others/trident.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/paleOakPlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/anvil.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/autoModdedOres.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/candle.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/copperBulb.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/coral.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/dirt.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/endStone.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/froglights.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lava.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lavaEdge.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lavaNoise.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/leaves.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/paleOakWood.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/snow.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/stone.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/translucents/glass.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/translucents/water.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/colorCodedPrograms.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/darkOutline.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/distantLightBokeh.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/distortWorld.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/endCrystalVoxelization.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/handSway.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/lensFlare.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/pixelation.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/potato.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/puddleVoxelization.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/shockwave.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/showLightLevels.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/voxelization.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/worldOutline.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/pipelineSettings.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_apple_acl.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_coordinates_acl.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_optifine_acl.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_optifine_af.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_shadowdistance_acl.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/old_ssbl_error.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/textRenderer.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/cloud-water.png
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/cloud-water.png.mcmeta
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/clouds_minecrafty-water.png
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/clouds_minecrafty-water.png.mcmeta
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/cucumber.png
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/cucumber.png.mcmeta
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/euphoria_patches.png
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/euphoria_patches.png.mcmeta
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/noise.png
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/noise.png.mcmeta
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/potato.png
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/potato.png.mcmeta
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/uniforms.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/colorConversion.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/commonFunctions.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/dFdxdFdy.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/dither.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/miplevel.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/spaceConversion.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite2.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite3.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite4.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite5.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite6.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite7.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite8.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite9.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/deferred1.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/dh_terrain.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/dh_water.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/final.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_armor_glint.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_basic.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_beaconbeam.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_block.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_clouds.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_damagedblock.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_entities.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_hand.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_lightning.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_skybasic.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_skytextured.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_spidereyes.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_terrain.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_textured.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_water.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_weather.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/prepare.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/shadow.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/shadowcomp.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/program/template.glsl
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/shaders.properties
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite2.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite2.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite3.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite3.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite4.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite4.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite5.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite5.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite6.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite6.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite7.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite7.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite8.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite8.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite9.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite9.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/deferred1.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/deferred1.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/dh_terrain.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/dh_terrain.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/dh_water.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/dh_water.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/final.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/final.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_armor_glint.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_armor_glint.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_basic.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_basic.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_beaconbeam.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_beaconbeam.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_block.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_block.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_clouds.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_clouds.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_damagedblock.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_damagedblock.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_entities.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_entities.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_entities_glowing.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_entities_glowing.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_hand.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_hand.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_lightning.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_lightning.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_line.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_line.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_skybasic.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_skybasic.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_skytextured.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_skytextured.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_spidereyes.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_spidereyes.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_terrain.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_terrain.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_textured.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_textured.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_water.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_water.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_weather.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_weather.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/shadow.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/shadow.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/shadowcomp.csh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite2.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite2.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite3.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite3.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite4.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite4.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite5.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite5.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite6.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite6.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite7.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite7.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite8.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite8.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite9.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite9.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/deferred1.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/deferred1.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/dh_terrain.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/dh_terrain.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/dh_water.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/dh_water.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/final.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/final.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_armor_glint.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_armor_glint.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_basic.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_basic.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_beaconbeam.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_beaconbeam.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_block.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_block.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_clouds.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_clouds.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_damagedblock.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_damagedblock.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_entities.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_entities.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_entities_glowing.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_entities_glowing.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_hand.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_hand.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_lightning.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_lightning.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_line.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_line.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_skybasic.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_skybasic.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_skytextured.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_skytextured.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_spidereyes.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_spidereyes.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_terrain.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_terrain.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_textured.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_textured.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_water.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_water.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_weather.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_weather.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/prepare.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/prepare.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/shadow.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/shadow.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/shadowcomp.csh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite2.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite2.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite3.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite3.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite4.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite4.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite5.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite5.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite6.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite6.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite7.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite7.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite8.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite8.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite9.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite9.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/deferred1.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/deferred1.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/dh_terrain.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/dh_terrain.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/dh_water.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/dh_water.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/final.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/final.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_armor_glint.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_armor_glint.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_basic.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_basic.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_beaconbeam.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_beaconbeam.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_block.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_block.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_clouds.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_clouds.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_damagedblock.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_damagedblock.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_entities.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_entities.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_entities_glowing.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_entities_glowing.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_hand.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_hand.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_lightning.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_lightning.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_line.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_line.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_skybasic.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_skybasic.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_skytextured.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_skytextured.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_spidereyes.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_spidereyes.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_terrain.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_terrain.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_textured.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_textured.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_water.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_water.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_weather.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_weather.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/prepare.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/prepare.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/shadow.fsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/shadow.vsh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/shadowcomp.csh
+shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1/supportedMods.md
+shaderpacks/ComplementaryReimagined_r5.4.zip
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/ComplementaryLicense.txt
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/Credits.txt
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/EuphoriaPatchesLicense.txt
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/InformationEuphoriaPatches.md
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/Made for Complementary Shaders r5.4.txt
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaderFile_Versions.txt
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/block.properties
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/dimension.properties
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/entity.properties
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/item.properties
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/en_US.lang
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/ja_JP.lang
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/pl_PL.lang
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/ru_RU.lang
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/uk_UA.lang
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lang/zh_CN.lang
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/antialiasing/fxaa.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/antialiasing/jitter.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/antialiasing/taa.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/auroraBorealis.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/bedrockNoise.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/clouds/cloudCoord.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/clouds/mainClouds.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/clouds/unboundClouds.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/endCrystalVortex.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/enderBeams.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/enderStars.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/endPortalBeam.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/bloomFog.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/caveFactor.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/coloredLightFog.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/mainFog.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/fog/waterFog.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/netherNoise.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/netherStorm.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/nightNebula.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/overworldBeams.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/rainbow.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/sky.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/stars.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/atmospherics/volumetricLight.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/blocklightColors.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/cloudColors.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/colorMultipliers.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/lightAndAmbientColors.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/moonPhaseInfluence.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/colors/skyColors.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/common.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/lighting/coloredBlocklight.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/lighting/ggx.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/lighting/mainLighting.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/lighting/shadowSampling.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/blockEntityMaterials.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/customMaterials.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/deferredMaterials.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/entityMaterials.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/irisMaterials.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/terrainMaterials.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialHandling/translucentMaterials.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/coatedTextures.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/connectedGlass.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/customEmission.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/generatedNormals.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/pomEffects.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/reflections.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/refraction.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/snowyWorld.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/materialMethods/wavingBlocks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/overlayNoise.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/overlayNoiseApply.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/seasons.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/seasonsTime.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/others/signText.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/others/trident.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/paleOakPlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/anvil.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/autoModdedOres.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/candle.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/copperBulb.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/coral.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/dirt.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/endStone.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/froglights.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lava.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lavaEdge.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/lavaNoise.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/leaves.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/paleOakWood.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/snow.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/terrain/stone.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/translucents/glass.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/materials/specificMaterials/translucents/water.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/colorCodedPrograms.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/darkOutline.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/distantLightBokeh.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/distortWorld.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/endCrystalVoxelization.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/handSway.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/lensFlare.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/pixelation.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/potato.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/puddleVoxelization.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/shockwave.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/showLightLevels.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/voxelization.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/misc/worldOutline.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/pipelineSettings.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_apple_acl.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_coordinates_acl.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_optifine_acl.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_optifine_af.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/error_shadowdistance_acl.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/old_ssbl_error.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textRendering/textRenderer.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/cloud-water.png
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/cloud-water.png.mcmeta
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/clouds_minecrafty-water.png
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/clouds_minecrafty-water.png.mcmeta
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/cucumber.png
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/cucumber.png.mcmeta
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/euphoria_patches.png
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/euphoria_patches.png.mcmeta
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/noise.png
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/noise.png.mcmeta
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/potato.png
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/textures/potato.png.mcmeta
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/uniforms.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/colorConversion.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/commonFunctions.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/dFdxdFdy.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/dither.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/miplevel.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/lib/util/spaceConversion.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite2.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite3.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite4.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite5.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite6.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite7.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite8.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/composite9.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/deferred1.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/dh_terrain.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/dh_water.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/final.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_armor_glint.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_basic.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_beaconbeam.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_block.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_clouds.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_damagedblock.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_entities.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_hand.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_lightning.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_skybasic.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_skytextured.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_spidereyes.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_terrain.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_textured.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_water.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/gbuffers_weather.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/prepare.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/shadow.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/shadowcomp.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/program/template.glsl
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/shaders.properties
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite2.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite2.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite3.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite3.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite4.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite4.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite5.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite5.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite6.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite6.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite7.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite7.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite8.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite8.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite9.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/composite9.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/deferred1.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/deferred1.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/dh_terrain.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/dh_terrain.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/dh_water.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/dh_water.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/final.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/final.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_armor_glint.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_armor_glint.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_basic.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_basic.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_beaconbeam.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_beaconbeam.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_block.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_block.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_clouds.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_clouds.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_damagedblock.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_damagedblock.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_entities.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_entities.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_entities_glowing.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_entities_glowing.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_hand.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_hand.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_lightning.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_lightning.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_line.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_line.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_skybasic.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_skybasic.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_skytextured.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_skytextured.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_spidereyes.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_spidereyes.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_terrain.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_terrain.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_textured.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_textured.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_water.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_water.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_weather.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/gbuffers_weather.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/shadow.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/shadow.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world-1/shadowcomp.csh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite2.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite2.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite3.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite3.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite4.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite4.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite5.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite5.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite6.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite6.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite7.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite7.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite8.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite8.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite9.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/composite9.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/deferred1.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/deferred1.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/dh_terrain.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/dh_terrain.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/dh_water.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/dh_water.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/final.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/final.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_armor_glint.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_armor_glint.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_basic.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_basic.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_beaconbeam.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_beaconbeam.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_block.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_block.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_clouds.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_clouds.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_damagedblock.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_damagedblock.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_entities.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_entities.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_entities_glowing.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_entities_glowing.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_hand.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_hand.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_lightning.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_lightning.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_line.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_line.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_skybasic.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_skybasic.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_skytextured.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_skytextured.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_spidereyes.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_spidereyes.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_terrain.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_terrain.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_textured.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_textured.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_water.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_water.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_weather.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/gbuffers_weather.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/prepare.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/prepare.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/shadow.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/shadow.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world0/shadowcomp.csh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite2.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite2.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite3.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite3.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite4.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite4.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite5.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite5.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite6.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite6.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite7.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite7.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite8.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite8.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite9.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/composite9.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/deferred1.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/deferred1.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/dh_terrain.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/dh_terrain.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/dh_water.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/dh_water.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/final.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/final.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_armor_glint.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_armor_glint.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_basic.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_basic.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_beaconbeam.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_beaconbeam.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_block.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_block.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_clouds.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_clouds.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_damagedblock.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_damagedblock.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_entities.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_entities.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_entities_glowing.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_entities_glowing.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_hand.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_hand.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_lightning.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_lightning.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_line.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_line.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_skybasic.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_skybasic.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_skytextured.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_skytextured.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_spidereyes.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_spidereyes.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_terrain.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_terrain.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_textured.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_textured.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_water.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_water.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_weather.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/gbuffers_weather.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/prepare.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/prepare.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/shadow.fsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/shadow.vsh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/shaders/world1/shadowcomp.csh
+shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1/supportedMods.md
+shaderpacks/ComplementaryUnbound_r5.4.zip
+shaderpacks/iterationT 3.2.0.zip
+shaderpacks/Nostalgia_v5.0.zip
+shaderpacks/photon-main.zip
+vefc.jar
+vefc.json
